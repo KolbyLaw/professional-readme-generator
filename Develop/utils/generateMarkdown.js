@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
 
-#${data.readmeTitle}
+# ${data.readmeTitle}
 
 ${data.badgeInfo}
 </br>
